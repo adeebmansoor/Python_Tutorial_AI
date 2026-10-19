@@ -1,0 +1,15 @@
+Task: Finish the login page by Friday
+Owner: Rahul
+
+Task: Test the API and report any bugs by Monday
+Owner: Priya
+
+Task: Update the project documentation
+Owner: Amit
+
+Task: Investigate the database connection issue
+Owner: Rahul
+
+Task: Prepare the demo presentation before the next meeting
+Owner: Priya
+

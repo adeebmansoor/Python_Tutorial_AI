@@ -1,15 +1,20 @@
 # Python Practice AI
 
-Python learning notebooks plus a Streamlit recipe generator powered by the
-Google Gen AI SDK.
+Python learning notebooks plus a Streamlit chatbot powered by the Google Gen AI
+SDK.
 
 ## Contents
 
 - `1_Datatypes.ipynb` through `9_Exercise_3.ipynb`: Python fundamentals and
   practice exercises.
-- `10_Call_LLM.ipynb`: a first call to Gemini and a recipe-generation function.
-- `app.py`: a Streamlit app for generating recipes from ingredients, cuisine,
-  dietary preference, servings, and cooking time.
+- `10_Call_LLM/Call_LLM.ipynb`: a first call to Gemini and a recipe-generation
+  function.
+- `10_Call_LLM/app.py`: a Streamlit app for generating recipes from ingredients,
+  cuisine, dietary preference, servings, and cooking time.
+- `13_Chatbot_with_memory/Chatbot_with_memory.ipynb`: demonstrates how to
+  preserve conversation history between Gemini calls.
+- `13_Chatbot_with_memory/app.py`: a Streamlit chat app that sends the full
+  conversation history with each message and retains it for the browser session.
 
 ## Run locally
 
@@ -34,10 +39,12 @@ Google Gen AI SDK.
 
    The app also accepts `GOOGLE_API_KEY` as an environment variable.
 
-4. Start the app:
+4. Start either app from the project root:
 
    ```powershell
-   streamlit run app.py
+   streamlit run 10_Call_LLM\app.py
+   # Or:
+   streamlit run 13_Chatbot_with_memory\app.py
    ```
 
 Get a Gemini API key from [Google AI Studio](https://aistudio.google.com/apikey).

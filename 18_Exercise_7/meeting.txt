@@ -1,0 +1,7 @@
+Project Meeting Notes
+
+- Rahul will finish the login page by Friday.
+- Priya needs to test the API and report any bugs by Monday.
+- We need to update the project documentation. Amit will handle this.
+- The team agreed to fix the database connection issue. Rahul will investigate it.
+- Priya will prepare the demo presentation before the next meeting.

@@ -1,0 +1,24 @@
+{
+    "action_items": [
+        {
+            "task": "Finish the login page by Friday",
+            "owner": "Rahul"
+        },
+        {
+            "task": "Test the API and report any bugs by Monday",
+            "owner": "Priya"
+        },
+        {
+            "task": "Update the project documentation",
+            "owner": "Amit"
+        },
+        {
+            "task": "Investigate the database connection issue",
+            "owner": "Rahul"
+        },
+        {
+            "task": "Prepare the demo presentation before the next meeting",
+            "owner": "Priya"
+        }
+    ]
+}

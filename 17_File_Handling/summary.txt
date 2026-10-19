@@ -1,0 +1,5 @@
+Here is a 3-bullet-point summary of the meeting:
+
+* **Production Shortfall & Recovery:** Production missed its 5,000-unit target (reaching only 4,200) due to Machine 3 breaking down; Ramesh will schedule extra shifts to catch up, while Anjali completes full machine inspections by Friday.
+* **Quality Issues:** 80 units failed inspection due to improper paint drying, and Vikram must submit a report on the issue by tomorrow to help resolve it.
+* **Material Delay:** The replenishment of steel stock is running late and is now expected to arrive on Thursday.
